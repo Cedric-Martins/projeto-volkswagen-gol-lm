@@ -135,3 +135,5 @@ Monte um guia rápido sobre o Volkswagen Gol para iniciantes
 Este projeto demonstra a aplicação prática de IA na organização de conhecimento, evidenciando não apenas o resultado final, mas também o processo de construção, refinamento e aprendizado ao longo do desenvolvimento.
 
 Mais do que um estudo sobre o Volkswagen Gol, este material representa a construção de um sistema pessoal de aprendizado contínuo.
+
+Link para verificar o projeto: https://notebooklm.google.com/notebook/e789528a-d651-4305-b095-809feb15ae43
